@@ -9,7 +9,7 @@ import nltk
 import pickle
 
 WORDS_PER_POS = 300
-EMBEDDING_DIM = 35
+EMBEDDING_DIM = 3
 
 synset_dataset_partial = []
 
